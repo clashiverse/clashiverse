@@ -3,6 +3,7 @@
 - Immerse ourselves in latest strategy! 🌟
 - Sharing insights, tactics, and more to level up your gaming. 💪
 - Expanding to cover exciting adventures beyond Clashverse! 🚀
+- Check out <a href="https://clashiverse.com">Clashiverse</a>
 
 <!---
 clashiverse/clashiverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
