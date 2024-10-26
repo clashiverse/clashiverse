@@ -1,9 +1,6 @@
-- 👋 Hi, We are @clashiverse
-- 🎮 A group of Clash Royale & Clash Mini Enthusiasts 🏰
-- Immerse ourselves in latest strategy! 🌟
-- Sharing insights, tactics, and more to level up your gaming. 💪
-- Expanding to cover exciting adventures beyond Clashverse! 🚀
-- Check out <a href="https://clashiverse.com">Clashiverse</a>
+- 👋 Hi, We are @RoScripts
+- 🎮 A community of Roblox fans developing and publishing lua scripts for various popular games.
+- Check out <a href="https://roscripts.net/">RoScripts</a>
 
 <!---
 clashiverse/clashiverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
